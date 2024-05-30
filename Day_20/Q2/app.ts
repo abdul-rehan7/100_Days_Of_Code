@@ -5,7 +5,7 @@ let userProfile = (function () {
   let age = 18;
   return {
     displayInfo: function () {
-      console.log(`\t Name: ${name} \n\t Age:${age}`);
+      console.log(`\t Name: ${name} \n\t Age:${age}.`);
     },
   };
 })();
