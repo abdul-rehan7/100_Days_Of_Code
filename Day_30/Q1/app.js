@@ -2,5 +2,5 @@
 function convertStringToNumber(str) {
     return Number(str);
 }
-console.log(convertStringToNumber("123"));
+console.log(convertStringToNumber("13579"));
 export {};

@@ -3,4 +3,4 @@
 function convertStringToNumber(str: string): number {
   return Number(str);
 }
-console.log(convertStringToNumber("123"));
+console.log(convertStringToNumber("13579"));
